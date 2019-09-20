@@ -1,0 +1,14 @@
+<!-- Copyright DeLaval. All rights reserved.-->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 33.197 36.804" enable-background="new 0 0 33.197 36.804" xml:space="preserve">
+<g id="log">
+	<rect x="7.392" y="24.954" fill="#FFFFFF" width="18.378" height="3.681"/>
+	<rect x="7.392" y="16.546" fill="#FFFFFF" width="18.378" height="3.682"/>
+	<polygon fill="#FFFFFF" points="7.392,8.081 7.392,11.762 25.71,11.762 22.029,8.081 	"/>
+	<g id="battery_torch_1_">
+		<path fill="#FFFFFF" d="M29.508,3.833l-0.122-0.122L25.674,0h-5.206H4.021C1.802,0,0,1.803,0,4.017v5.407v23.363
+			C0,35,1.802,36.804,4.021,36.804H29.18c2.216,0,4.018-1.803,4.018-4.017V12.73V7.524L29.508,3.833z M29.508,33.092H3.69V3.711
+			h20.488l5.329,5.328V33.092z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M12.8,49.9c0-20.6,16.7-37.3,37.3-37.3s37.4,16.7,37.4,37.3S70.8,87.3,50.2,87.3
+	C29.5,87.3,12.8,70.6,12.8,49.9z M50.1,97.7C76.6,97.7,98,76.3,98,49.9S76.6,2.1,50.1,2.1S2.3,23.5,2.3,49.9c0,0,0,0,0,0
+	C2.4,76.3,23.8,97.7,50.1,97.7L50.1,97.7z"/>
+<text x="37" y="70"
+      style="fill: #FFFFFF; stroke: #FFFFFF; font-family='Arial' font-weight: bold; font-size: 60px;">
+    3
+</text>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Idle" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#575757;}
+</style>
+<title>idle</title>
+<path class="st0" d="M96.9,30.3h-31v48c0,3.1,2.6,5.6,5.7,5.6h6.5v2.3c0,1.5-1.2,2.7-2.7,2.7H45.6c-1.5,0-2.7-1.2-2.7-2.7v-2.4
+	c4.6-0.5,8.1-4.4,8.1-9v-3h2.3c4.6-0.5,8.1-4.4,8.1-9V35.5H39.7v11.9H29.3v27.5c0,4.3,3.1,8,7.3,8.9v2.5c0,5,4,9,9,9h29.7
+	c5,0,9-4,9-9v-2.4h6.9c3.1,0,5.6-2.5,5.6-5.6L96.9,30.3L96.9,30.3z M46,41.8h9.1V63c0,1.5-1.2,2.7-2.7,2.7H51V47.4h-5V41.8z
+	 M38.3,77.6c-1.5,0-2.7-1.2-2.7-2.7V53.8h9.1v21.2c0,1.5-1.2,2.7-2.7,2.7H38.3L38.3,77.6z M90.6,77.3H72.1v-41h18.5
+	C90.6,36.3,90.6,72.4,90.6,77.3L90.6,77.3z"/>
+<rect x="78" y="66.7" class="st0" width="6.5" height="7.1"/>
+<g id="Standby_mode_resting">
+	<path class="st0" d="M2.7,35.9l12.4-12.3H2.7v-7.1h22.9v7.2L13.1,35.8h12.4v7.1H2.7V35.9L2.7,35.9z"/>
+	<path class="st0" d="M31.7,18.6l8.9-8.8h-8.9V4.7H48v5.1l-8.9,8.7H48v5.1H31.7V18.6L31.7,18.6z"/>
+</g>
+</svg>

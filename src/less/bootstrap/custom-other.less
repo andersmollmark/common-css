@@ -1,0 +1,165 @@
+.btn-lg {
+    border-radius: 10px;
+}
+
+.modal-content {
+  //#gradient.vertical(@dl-grey-start; @dl-grey-end);	
+}
+
+.modal-footer {
+	border-top: 1px solid @dl-grey;
+}
+
+@btn-dl-dark-grey-color:  @dl-white;
+@btn-dl-dark-grey-bg:     @dl-dark-grey;
+@btn-dl-dark-grey-border: darken(@btn-dl-dark-grey-bg, 5%);
+
+@btn-dl-yellow-color:     @dl-white;
+@btn-dl-yellow-bg:        @dl-yellow;
+@btn-dl-yellow-border: darken(@btn-dl-yellow-bg, 5%);
+
+@btn-dl-grey-color:  @dl-white;
+@btn-dl-grey-bg:     @dl-grey-start;
+@btn-dl-grey-border: darken(@btn-dl-grey-bg, 5%);
+
+@btn-dl-cyan-color:     @dl-white;
+@btn-dl-cyan-bg:        @dl-cyan;
+@btn-dl-cyan-border: darken(@btn-dl-cyan-bg, 5%);
+
+@btn-dl-red-color:   @dl-white;
+@btn-dl-red-bg:      @dl-red;
+@btn-dl-red-border:  darken(@btn-dl-red-bg, 5%);
+
+@btn-dl-white-color:   @dl-dark-grey;
+@btn-dl-white-bg:      @dl-white;
+@btn-dl-white-border:  darken(@btn-dl-white-bg, 5%);
+
+
+// Set the backgrounds
+// -------------------------
+.btn-dl-dark-grey {
+  .button-variant(@btn-dl-dark-grey-color; @btn-dl-dark-grey-bg; @btn-dl-dark-grey-border);
+  font-weight: bold;
+  border-style: none;
+}
+.btn-dl-dark-grey:active,
+.btn-dl-dark-grey.active {
+      background-color: @dl-blue;
+      //border-color: darken(@dl-blue, 5%);
+      //#gradient.vertical(@dl-blue-start; @dl-blue-end);
+      border-style: none;
+}
+
+.btn-dl-dark-grey.disabled,
+.btn-dl-dark-grey:disabled {
+    background-color: @dl-medium-grey;
+    opacity: 1;
+    border-style: none;    
+}
+
+.btn-dl-grey {
+  .button-variant(@btn-dl-grey-color; @btn-dl-grey-bg; @btn-dl-grey-border);
+}
+
+.btn-dl-cyan {
+  .button-variant(@btn-dl-cyan-color; @btn-dl-cyan-bg; @btn-dl-cyan-border);
+}
+.btn-dl-cyan:active,
+.btn-dl-cyan.active {
+      background-color: @dl-grey;
+      border-color: darken(@dl-grey, 5%);
+      //#gradient.vertical(@dl-grey-start; @dl-grey-end);
+}
+
+
+.btn-dl-red {
+  .button-variant(@btn-dl-red-color; @btn-dl-red-bg; @btn-dl-red-border);
+  //#gradient.vertical(@dl-red-start; @dl-red-end);
+}
+.btn-dl-red:active,
+.btn-dl-red.active {
+      background-color: @dl-grey;
+      border-color: darken(@dl-grey, 5%);
+      //#gradient.vertical(@dl-grey-start; @dl-grey-end);
+}
+
+.btn-dl-white {
+  .button-variant(@btn-dl-white-color; @btn-dl-white-bg; @btn-dl-white-border);
+  //#gradient.vertical(@dl-red-start; @dl-red-end);
+}
+.btn-dl-white:active,
+.btn-dl-white.active {
+      background-color: @dl-grey;
+      border-color: darken(@dl-grey, 5%);
+      //#gradient.vertical(@dl-grey-start; @dl-grey-end);
+}
+
+.btn-dl-yellow {
+  .button-variant(@btn-dl-yellow-color; @btn-dl-yellow-bg; @btn-dl-yellow-border);
+  //#gradient.vertical(@dl-yellow-start; @dl-yellow-end);
+}
+.btn-dl-yellow:active,
+.btn-dl-yellow.active {
+      background-color: @dl-grey;
+      border-color: darken(@dl-grey, 5%);
+      //#gradient.vertical(@dl-grey-start; @dl-grey-end);
+    }
+
+.btn-dl-transparent {
+    .button-variant(transparent; transparent; transparent);
+    border-radius: 0px !important;
+    background-repeat: no-repeat;}
+.btn-dl-transparent:active,
+.btn-dl-transparent.active {
+      background-color: transparent;
+      border-color: transparent;
+    }
+
+.btn-radio.active, .btn-info.active {
+	background-color: @dl-blue;
+	//#gradient.vertical(@dl-blue-start; @dl-blue-end);
+}
+
+.btn-radio.active:hover {
+	background-color: @dl-blue;
+}
+
+.btn-danger:hover, .btn-danger:active,
+.btn-info:hover, .btn-info:active,
+.btn-default:hover, .btn-default:active,
+.btn-success:hover, .btn-success:active{
+  color: darken(@dl-white, 10%);
+  background-color: lighten(@dl-dark-grey, 10%);
+}
+
+
+.progress {
+    box-shadow: 0px 1px 4px -1px #575757 inset;
+    border-radius: 5px;
+    margin-bottom: 0;
+    @media (max-width: @screen-xs-max) {
+        height: 25px;
+    }
+    @media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+    }
+}
+.progress-bar {
+    box-shadow: 0px 1px 4px 1px #575757 inset;
+    border-radius: 5px;
+    background-color: @dl-cyan;
+}
+
+
+
+
+.flip {
+	.rotate(-90deg);
+}
+
+.flop {
+	.rotate(90deg);
+}
+
+.font-bold {
+        font-weight: bold;
+}

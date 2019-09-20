@@ -1,0 +1,13 @@
+<!-- Copyright DeLaval. All rights reserved.-->
+<svg id="code" data-name="code" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+       <defs>
+	        <style>
+			.cls-1{fill:#575757;}
+			</style>
+	   </defs>
+	        <title>
+			code
+			</title>
+			
+			<path class="cls-1" d="M33.56,2.08H2.63V33H33.56V2.08ZM24.84,24.3H11.35V10.8H24.84V24.3Z"/><path class="cls-1" d="M67.33,2.08V33H98.26V2.08H67.33ZM89.54,24.3H76V10.8H89.54V24.3Z"/><path class="cls-1" d="M2.38,98H33.31V67H2.38V98ZM11.1,75.75H24.6V89.24H11.1V75.75Z"/><rect class="cls-1" x="79.97" y="14.73" width="5.65" height="5.65"/><rect class="cls-1" x="15.27" y="14.73" width="5.65" height="5.65"/><rect class="cls-1" x="15.27" y="79.67" width="5.65" height="5.65"/><rect class="cls-1" x="2.63" y="42.26" width="25.51" height="8.5"/><polygon class="cls-1" points="72.48 81.07 80.98 81.07 80.98 72.94 72.48 72.94 63.98 72.94 63.98 81.07 46.97 81.07 46.97 89.57 72.48 89.57 72.48 97.96 97.98 97.96 97.98 89.46 72.48 89.46 72.48 81.07"/><polygon class="cls-1" points="49.98 27.48 58.48 27.48 58.48 1.97 49.98 1.97 49.98 14.73 41.48 14.73 41.48 40.23 49.98 40.23 49.98 27.48"/><polygon class="cls-1" points="97.95 42.63 89.48 42.63 89.45 42.63 80.98 42.63 80.98 50.76 80.98 58.89 89.48 58.89 89.48 50.76 97.95 50.76 97.95 42.63"/><polygon class="cls-1" points="53.64 67.03 62.14 67.03 62.14 58.9 53.64 58.9 53.64 50.76 28.14 50.76 28.14 59.26 45.14 59.26 45.14 67.03 53.64 67.03"/><rect class="cls-1" x="72.48" y="58.9" width="8.5" height="8.13"/><rect class="cls-1" x="72.48" y="42.63" width="8.5" height="8.13"/><rect class="cls-1" x="89.45" y="72.94" width="8.5" height="8.13"/>
+</svg>

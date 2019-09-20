@@ -1,0 +1,41 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st2{opacity:0.9;fill:#FFFFFF;}
+	.st3{fill:none;}
+	.st24{fill:#FFFFFF;}
+</style>
+<symbol  id="sysbar_x5F_status_x5F_used_x5F_light" viewBox="0 -24 360 24">
+	<rect x="0" y="-24" class="st0" width="360" height="24"/>
+	<g>
+		<g class="st1">
+			<rect x="312" y="-21" class="st3" width="40" height="16"/>
+			<text transform="matrix(1 0 0 -1 316.46 -17)" class="st7" style="font-family:'Roboto-Medium'; font-size:14px;">12:30</text>
+		</g>
+		<g>
+			<g class="st1">
+				<path class="st2" d="M266-19l8.8,10.9C274.5-7.8,271.1-5,266-5s-8.5-2.8-8.8-3.1L266-19L266-19L266-19L266-19L266-19z"/>
+			</g>
+			<rect x="258" y="-20" class="st3" width="16" height="16"/>
+		</g>
+		<g>
+			<polygon class="st2" points="277,-19 291,-19 291,-5 			"/>
+			<rect x="276" y="-20" class="st3" width="16" height="16"/>
+		</g>
+		<g>
+			<rect x="296" y="-20" class="st3" width="16" height="16"/>
+			<path class="st2" d="M306-6v1h-3v-1h-3v-13h9v13H306z"/>
+		</g>
+	</g>
+</symbol>
+		<path class="st24" d="M57.1,53.4c0.1,0,5.5-1.5,5.5-1.5"/>
+		<path class="st24" d="M57.3,63.8C47.6,67.1,37,63.6,37,63.6c0,3.6,0,15,0,15c0,4.2-4.2,7.5-9.6,7.5h0h-0.9h-0.2h-1.2h-0.2h-0.8h0
+			c-5.4,0-9.6-3.3-9.6-7.5V50.1c-0.1-0.2-0.2-0.4-0.2-0.6c-6.9-7-10.4-14.9-10.5-24.1c0-0.2,0,7.6,0,7.3V17.2l8.4,0v15.6
+			c0,0.3,0-7.5,0-7.3c0.1,4.1,1.1,7.8,2.9,11.3c2,2.9,4.1,5.1,6.8,7.7c0.9,0.9,1.3,2.1,1.3,3.5c0,0.4-0.1,0.8-0.1,1.3
+			c0,2.9,0,27.9,0,28.7c0.2,0.1,0.6,0.2,1.2,0.2h3.3c0.6,0,1-0.1,1.2-0.2c0-0.9,0-28,0-28S40,56,50.4,54.7L57.3,63.8"/>
+		<path class="st24" d="M69.8,44.8c2.7-2.6,4.4-5,6.4-8c1.8-3.5,2.7-7.2,2.8-11.3c0-0.3,0-0.6,0-0.9v-7.6l8.4,0v7.5
+			c0,0.4,0,0.7,0,1.1C87,34.9,82,43.5,75.2,50.4"/>
+		
+			<path class="st24" d="M71,67.8L57.5,51.1h10.5l8.2,10.9l8.6-10.9h10L81.4,67.4l15,19H86l-9.9-13l-9.6,13H56.2L71,67.8z"/>
+
+</svg>

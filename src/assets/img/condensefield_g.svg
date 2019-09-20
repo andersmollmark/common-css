@@ -1,0 +1,11 @@
+<!-- Copyright DeLaval. All rights reserved.-->
+<svg width="98.604" height="18.407" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path d="m98.978996,18.469l-20.224998,-16.482c-1.282997,-1.037 -3.684998,-1.885 -5.334,-1.885h-47.901999c-1.649,0 -4.051001,0.848 -5.334,1.885l-20.226,16.482" stroke-miterlimit="10" stroke="#575757" fill="none"/>
+  <path id="svg_1" d="m41.681702,15.3999l8.566998,-10.1499l8.626301,10.1126" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#575757"/>
+  <g id="svg_2">
+   <path d="0" stroke-miterlimit="10" stroke="#575757" fill="none"/>
+   <path d="0" fill="#575757"/>
+  </g>
+ </g>
+</svg>
